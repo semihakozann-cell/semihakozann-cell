@@ -6,7 +6,6 @@
 
 📊 Exploring Cancer Genomics, RNA-seq and Machine Learning
 
-🧬 Molecular Biology & Genetics Graduate
 
 After years dedicated to raising my daughters, I am building my way back into science through Python, bioinformatics, and genetic data analysis.
 
