@@ -1,32 +1,33 @@
-# Hi, I'm Semiha 👋
+# Hi there, I'm Semiha 👋
 
-🧬 Molecular Biology & Genetics Graduate
+🧬 Molecular Biology and Genetics graduate
 
-🐍 Learning Python for Bioinformatics & Data Analysis
+I build Python applications and bioinformatics projects while expanding my skills in computational biology.
 
-📊 Exploring Cancer Genomics, RNA-seq and Machine Learning
+## Currently working on
 
+- RNA-seq analysis
+- Python automation
+- Linux
+- Biopython
+- Machine Learning for Biology
 
-After years dedicated to raising my daughters, I am building my way back into science through Python, bioinformatics, and genetic data analysis.
-
-## Currently Learning
+## Technologies
 
 - Python
+- Flet
 - Pandas
-- Data Visualization
-- Machine Learning Fundamentals
-- RNA-seq Analysis
+- NumPy
+- Git
+- Linux
+- Jupyter
+- RNA-seq
 
-## Interests
+## Goals
 
-- Cancer Genomics
-- Disease Research
-- Genetic Mutations
-- Bioinformatics
-
-## Current Goal
-
-Building a portfolio of bioinformatics and data analysis projects.## Hi there 👋
+- Develop production-ready bioinformatics pipelines
+- Contribute to open-source bioinformatics projects
+- Build AI tools for biological research
 
 <!--
 **semihakozann-cell/semihakozann-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
