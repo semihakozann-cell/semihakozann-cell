@@ -1,6 +1,6 @@
-# Hi, I'm Semiha 👋
+##Semiha KOZAN
 
-**Computational Biology • Bioinformatics • Open Source**
+Molecular Biology & Genetics • Bioinformatics • Computational Biology
 
 Building reproducible bioinformatics software, scientific Python tools, and genomic data analysis workflows.
 
