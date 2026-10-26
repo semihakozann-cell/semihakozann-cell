@@ -1,3 +1,12 @@
+
+
+<p align="center">
+  <img src="banner.png" width="100%" alt="Semiha Kozan">
+</p>
+
+
+
+
 ## Semiha KOZAN
 
 Molecular Biology & Genetics • Bioinformatics • Computational Biology
