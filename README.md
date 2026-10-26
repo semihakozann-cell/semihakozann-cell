@@ -6,7 +6,6 @@
 
 
 
-## Semiha KOZAN
 
 Molecular Biology & Genetics • Bioinformatics • Computational Biology
 
