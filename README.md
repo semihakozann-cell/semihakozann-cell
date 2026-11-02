@@ -1,25 +1,15 @@
-<!-- Semiha Kozan • visual-first GitHub profile. Avatar remains managed by GitHub. -->
-<p align="center"><img src="assets/hero.png" width="100%" alt="Semiha Kozan | Molecular Biology & Genetics Specialist | Bioinformatics and computational biology" /></p>
-
-<p align="center">
-  <a href="mailto:semihakozann@gmail.com"><img src="assets/contact-email.png" width="32%" alt="Email Semiha Kozan" /></a>
-  <a href="https://x.com/GeneToEvidence"><img src="assets/contact-x.png" width="32%" alt="X: GeneToEvidence" /></a>
-  <a href="https://bsky.app/profile/semihakozann.bsky.social"><img src="assets/contact-bluesky.png" width="32%" alt="Bluesky: semihakozann.bsky.social" /></a>
-</p>
-
-<p align="center"><img src="assets/toolkit.png" width="100%" alt="Tools and Methods: Python, pandas, Statistics, Linux/Bash, Git, Jupyter, RNA-seq, Validation" /></p>
-
-<p align="center"><img src="assets/portrait-panel.png" width="100%" alt="Biology interpreted through code: genomic analysis, scientific Python, validation, reproducible workflows. Original illustrated portrait supplied by profile owner." /></p>
-
-<p align="center"><img src="assets/selected-work.png" width="100%" alt="Selected Work — click a project to open its repository" /></p>
-
-<p align="center">
-  <a href="https://github.com/semihakozann-cell/RNA-seq-analysis"><img src="assets/rna-seq.png" width="48%" alt="View RNA-seq Analysis project" /></a>
-  <a href="https://github.com/semihakozann-cell/rna-seq-cancer-analysis"><img src="assets/cancer.png" width="48%" alt="View Cancer Transcriptomics project" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/semihakozann-cell/moonlighting-protein-analysis"><img src="assets/protein.png" width="48%" alt="View Moonlighting Protein Analysis project" /></a>
-  <a href="https://github.com/semihakozann-cell/teyzosmetre"><img src="assets/teyzosmetre.png" width="48%" alt="View Teyzosmetre project" /></a>
-</p>
-
-<p align="center"><img src="assets/footer.png" width="100%" alt="Reproducible research. Biological evidence. Scientific computing." /></p>
+<!--
+  SEMIHA KOZAN | Botanical Editorial GitHub Profile
+  Reference-derived layout: content graphics crop the original composition directly.
+  Each project and contact tile links to a real destination.
+  The real GitHub profile avatar is controlled separately in account settings.
+-->
+<div align="center">
+<img src="assets/01-hero.png" width="100%" alt="Semiha Kozan • Molecular Biology & Genetics Specialist • Botanical editorial hero with sage-green illustrated portrait" />
+<a href="mailto:semihakozann@gmail.com"><img src="assets/02-contact-email.png" width="27.94%" alt="Email: semihakozann@gmail.com" /></a><a href="https://x.com/GeneToEvidence"><img src="assets/02-contact-x.png" width="25.85%" alt="X: @GeneToEvidence" /></a><a href="https://bsky.app/profile/semihakozann.bsky.social"><img src="assets/02-contact-bluesky.png" width="46.21%" alt="Bluesky: @semihakozann.bsky.social" /></a>
+<img src="assets/03-focus.png" width="100%" alt="Focus: Transcriptomics, Genomics, Data Analysis and Reproducible Pipelines" />
+<img src="assets/04-tools.png" width="100%" alt="Tools & Methods: Python, R, Statistics, Linux, Git, Docker, SQL and Conda" />
+<img src="assets/05-projects-title.png" width="100%" alt="Selected Projects" />
+<a href="https://github.com/semihakozann-cell/RNA-seq-analysis"><img src="assets/06-rna-seq.png" width="26.36%" alt="Open RNA-seq Analysis repository" /></a><a href="https://github.com/semihakozann-cell/rna-seq-cancer-analysis"><img src="assets/06-cancer.png" width="22.60%" alt="Open Cancer Transcriptomics repository" /></a><a href="https://github.com/semihakozann-cell/moonlighting-protein-analysis"><img src="assets/06-protein.png" width="22.77%" alt="Open Moonlighting Protein Analysis repository" /></a><a href="https://github.com/semihakozann-cell/teyzosmetre"><img src="assets/06-teyzosmetre.png" width="28.27%" alt="Open Teyzosmetre repository" /></a>
+<img src="assets/07-footer.png" width="100%" alt="Reproducible Research • Evidence-driven Analysis • Bioinformatics" />
+</div>
