@@ -67,7 +67,3 @@ Python tools for computational biology and genomics.
 - Scientific Computing
 - Reproducible Research
 - Open-source Scientific Software
-- ## Connect
-
-- LinkedIn : https://www.linkedin.com/in/semiha-kozan-43a327404/
-- Email : semihakozann@gmail.com
