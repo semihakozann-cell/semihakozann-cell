@@ -13,3 +13,15 @@
 <a href="https://github.com/semihakozann-cell/RNA-seq-analysis"><img src="assets/06-rna-seq.png" width="26.36%" alt="Open RNA-seq Analysis repository" /></a><a href="https://github.com/semihakozann-cell/rna-seq-cancer-analysis"><img src="assets/06-cancer.png" width="22.60%" alt="Open Cancer Transcriptomics repository" /></a><a href="https://github.com/semihakozann-cell/moonlighting-protein-analysis"><img src="assets/06-protein.png" width="22.77%" alt="Open Moonlighting Protein Analysis repository" /></a><a href="https://github.com/semihakozann-cell/teyzosmetre"><img src="assets/06-teyzosmetre.png" width="28.27%" alt="Open Teyzosmetre repository" /></a>
 <img src="assets/07-footer.png" width="100%" alt="Reproducible Research • Evidence-driven Analysis • Bioinformatics" />
 </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/semihakozann-cell/semihakozann-cell/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/semihakozann-cell/semihakozann-cell/output/pacman-contribution-graph.svg">
+    <img
+      src="https://raw.githubusercontent.com/semihakozann-cell/semihakozann-cell/output/pacman-contribution-graph.svg"
+      alt="Pac-Man Contribution Graph"
+      width="100%">
+  </picture>
+</div>
