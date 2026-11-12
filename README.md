@@ -14,6 +14,9 @@
 <img src="assets/07-footer.png" width="100%" alt="Reproducible Research • Evidence-driven Analysis • Bioinformatics" />
 </div>
 <div align="center">
+  <img src="assets/08-readme-typing.gif" width="100%" alt="Animated computer and keyboard: Building biology with code" />
+</div>
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/semihakozann-cell/semihakozann-cell/output/pacman-contribution-graph-dark.svg">
