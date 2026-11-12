@@ -14,7 +14,7 @@
 <img src="assets/07-footer.png" width="100%" alt="Reproducible Research • Evidence-driven Analysis • Bioinformatics" />
 </div>
 <div align="center">
-  <img src="assets/08-readme-typing.gif" width="100%" alt="Animated computer and keyboard: Building biology with code" />
+  <img src="assets/08-readme-typing.gif" width="55%" alt="Animated computer and keyboard: Building biology with code" />
 </div>
 <div align="center">
   <picture>
